@@ -1,0 +1,1 @@
+C:\xampp\htdocs\fastevet\app/views/furmigations/index.blade.php
