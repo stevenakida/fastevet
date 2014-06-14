@@ -3,11 +3,11 @@
   <div class="subnavbar-inner">
     <div class="container">
       <ul class="mainnav">
-        <li class="active"><a href="index.html"><i class="icon-dashboard"></i><span>Dashboard</span> </a> </li>
-        <li><a href="reports.html"><i class="icon-list-alt"></i><span>Reports</span> </a> </li>
-        <li><a href="guidely.html"><i class="icon-facetime-video"></i><span>App Tour</span> </a></li>
-        <li><a href="charts.html"><i class="icon-bar-chart"></i><span>Charts</span> </a> </li>
-        <li><a href="shortcodes.html"><i class="icon-code"></i><span>Shortcodes</span> </a> </li>
+        <li class="active"><a href="/"><i class="icon-dashboard"></i><span>Dashboard</span> </a> </li>
+        <li><a href="/pets"><i class="icon-list-alt"></i><span>Pets</span> </a> </li>
+        <li><a href="/appointments"><i class="icon-list-alt"></i><span>Appointments</span> </a> </li>
+        <li><a href="/drugs"><i class="icon-facetime-video"></i><span>Drugs</span> </a></li>
+        <li><a href="charts.html"><i class="icon-bar-chart"></i><span>Reports</span> </a> </li>
         <li class="dropdown"><a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown"> <i class="icon-long-arrow-down"></i><span>Drops</span> <b class="caret"></b></a>
           <ul class="dropdown-menu">
             <li><a href="icons.html">Icons</a></li>
@@ -20,8 +20,8 @@
         </li>
       </ul>
     </div>
-    <!-- /container --> 
+    <!-- /container -->
   </div>
-  <!-- /subnavbar-inner --> 
+  <!-- /subnavbar-inner -->
 </div>
 <!-- /subnavbar -->

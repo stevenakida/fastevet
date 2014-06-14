@@ -12,6 +12,10 @@ class AppointmentsTableSeeder extends Seeder {
 		foreach(range(1, 10) as $index)
 		{
 			Appointment::create([
+				'petname' => $faker->firstName('female'),
+			    'ownersname' => $faker->name,
+			    'appdate' => $faker->dateTime,
+
 
 			]);
 		}

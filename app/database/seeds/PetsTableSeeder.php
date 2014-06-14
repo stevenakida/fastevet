@@ -12,7 +12,11 @@ class PetsTableSeeder extends Seeder {
 		foreach(range(1, 10) as $index)
 		{
 			Pet::create([
-
+				'petname' => $faker->firstName('female'),
+			    'ownersname' => $faker->name,
+			    'address' => $faker->address,
+			    'phonenum' => $faker->phoneNumber,
+			    'email' => $faker->email,
 			]);
 		}
 	}
